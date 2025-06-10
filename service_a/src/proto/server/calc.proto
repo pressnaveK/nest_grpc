@@ -1,0 +1,9 @@
+syntax = "proto3";
+import "common_messages.proto";
+
+package  calc;
+
+service CalcService{
+  rpc Add (CalcRequest) returns (CalcResponse);
+  rpc Multiply(CalcRequest) returns (CalcResponse);
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GBrowserService"><![CDATA[{
+  "history": [
+    {
+      "name": "Gmail",
+      "url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AdBytiOW30CoyJATuEP_iqmSsp_rn2y5PzxelX2IKGWh7v4BvggJiy_Zzukwtc_ENmOF0Hz7Tl2l&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S138135695%3A1749307350021632"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ALgCv6yB1jWlWt4IS1uVo7p4Yew6CMb1uFLBO6medQNdccbP5R9l5gaE7CnUYpQQ&checkConnection=youtube%3A384&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&dsh=S138135695%3A1749307350021632&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdBytiOW30CoyJATuEP_iqmSsp_rn2y5PzxelX2IKGWh7v4BvggJiy_Zzukwtc_ENmOF0Hz7Tl2l&pstMsg=1&rip=1&service=mail"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://accounts.google.com/v3/signin/challenge/selection?TL=ALgCv6yB1jWlWt4IS1uVo7p4Yew6CMb1uFLBO6medQNdccbP5R9l5gaE7CnUYpQQ&checkConnection=youtube%3A384&checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&dsh=S138135695%3A1749307350021632&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdBytiOW30CoyJATuEP_iqmSsp_rn2y5PzxelX2IKGWh7v4BvggJiy_Zzukwtc_ENmOF0Hz7Tl2l&lid=2&pstMsg=1&rip=1&service=mail"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://accounts.google.com/v3/signin/challenge/ipp/collect?TL=ALgCv6yB1jWlWt4IS1uVo7p4Yew6CMb1uFLBO6medQNdccbP5R9l5gaE7CnUYpQQ&checkConnection=youtube%3A384&checkedDomains=youtube&cid=4&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&dsh=S138135695%3A1749307350021632&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdBytiOW30CoyJATuEP_iqmSsp_rn2y5PzxelX2IKGWh7v4BvggJiy_Zzukwtc_ENmOF0Hz7Tl2l&pstMsg=1&rip=1&service=mail"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://accounts.google.com/v3/signin/challenge/ipp/verify?TL=ALgCv6yB1jWlWt4IS1uVo7p4Yew6CMb1uFLBO6medQNdccbP5R9l5gaE7CnUYpQQ&checkConnection=youtube%3A384&checkedDomains=youtube&cid=4&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&dsh=S138135695%3A1749307350021632&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AdBytiOW30CoyJATuEP_iqmSsp_rn2y5PzxelX2IKGWh7v4BvggJiy_Zzukwtc_ENmOF0Hz7Tl2l&pstMsg=1&rip=1&service=mail"
+    },
+    {
+      "name": "Google Account",
+      "url": "https://gds.google.com/web/landing?ep=p&gdsid=486009788&tda=CAA&authuser=0&hl=en&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps://mail.google.com/mail/%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube:384%26pstMsg%3D1&service=mail&rapt=AEjHL4Od8y9XqbuF_5GgCBgTkKR0Ke2H28BUzzcrfSHK4BCVrICZ0ba8OvdWZbFNbiiCTCb-1f87JWUQqjkb-EOMNYUq60wZug&pli=1"
+    },
+    {
+      "name": "Account Recovery Options",
+      "url": "https://gds.google.com/web/recoveryoptions?cardIndex=0&hl=en&authuser=0&tda=CAA&gdsid=486009788&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Fmail.google.com%2Fmail%2F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%3A384%26pstMsg%3D1&rapt=AEjHL4Od8y9XqbuF_5GgCBgTkKR0Ke2H28BUzzcrfSHK4BCVrICZ0ba8OvdWZbFNbiiCTCb-1f87JWUQqjkb-EOMNYUq60wZug&ep=p"
+    },
+    {
+      "name": "Account Recovery Options",
+      "url": "https://gds.google.com/web/recoveryoptions?cardIndex=0&hl=en&authuser=0&tda=CAA&gdsid=486009788&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Fmail.google.com%2Fmail%2F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%3A384%26pstMsg%3D1&rapt=AEjHL4Od8y9XqbuF_5GgCBgTkKR0Ke2H28BUzzcrfSHK4BCVrICZ0ba8OvdWZbFNbiiCTCb-1f87JWUQqjkb-EOMNYUq60wZug&ep=p&asp=EgQIFhAC"
+    },
+    {
+      "name": "Google Account",
+      "url": "https://gds.google.com/web/homeaddress?cardIndex=1&hl=en&authuser=0&tda=CAA&gdsid=486009788&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Fmail.google.com%2Fmail%2F%26service%3Dmail%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%3A384%26pstMsg%3D1&asp=EgQIFhAC&rapt=AEjHL4Od8y9XqbuF_5GgCBgTkKR0Ke2H28BUzzcrfSHK4BCVrICZ0ba8OvdWZbFNbiiCTCb-1f87JWUQqjkb-EOMNYUq60wZug&ep=p"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+      "name": "chatgpt - Google Search",
+      "url": "https://www.google.com/search?q=chatgpt&sca_esv=41cbd256792e7ece&sxsrf=AE3TifP4HWGiKbyTh8U7YAUACPkByvmdsQ%3A1749307577261&source=hp&ei=uVBEaOvUDI-L9u8P0__lyAw&iflsig=AOw8s4IAAAAAaEReyVESruUbWW51aUFNsL8_b9cz-kuU&ved=0ahUKEwirlfjFxt-NAxWPhf0HHdN_GckQ4dUDCBc&uact=5&oq=chatgpt&gs_lp=Egdnd3Mtd2l6IgdjaGF0Z3B0MgoQIxiABBgnGIoFMggQABiABBixAzIIEAAYgAQYsQMyCBAAGIAEGLEDMgUQABiABDIIEAAYgAQYsQMyBRAAGIAEMgsQABiABBixAxiDATIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBSOo4UMQYWKk3cAJ4AJABAJgBtAKgAYsLqgEHMC4yLjIuMrgBA8gBAPgBAZgCCKACigyoAgrCAg0QLhjRAxjHARgnGOoCwgIHECMYJxjqAsICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYigXCAgUQLhiABMICFBAuGIAEGLEDGNEDGIMBGMcBGIoFwgIEECMYJ8ICDhAuGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAg0QABiABBixAxiKBRgKwgIHEAAYgAQYCpgDD_EFB-1w0fc1ZFaSBwcyLjAuNC4yoAfENbIHBTItNC4yuAfpC8IHAzMtOMgHbg&sclient=gws-wiz"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_EMEA_UnitedArabEmirates_Consumer_CPA_BAU_Mix_English&utm_term=chatgpt&gad_source=1&gad_campaignid=22472177951&gbraid=0AAAAA-IW-UUg36aGJwThJe3qEm8qCog1W&gclid=Cj0KCQjwxo_CBhDbARIsADWpDH6eE5W0XIj15slIkKUfl71oBNtkZHZB9q2ZhG1A1jQgrVnLvSF9W_IaAmsdEALw_wcB"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/api/auth/error"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/api/auth/error?__cf_chl_rt_tk=m1x_uYMdJZ0E7uPItBHo5WfUjOU7TTrftXapPEbcxsU-1749307605-1.0.1.1-QsimSrW6NgPt0aKHCoFBuHRTyhMBzJBeRE2ipsPcSd4"
+    },
+    {
+      "name": "Just a moment...",
+      "url": "https://chatgpt.com/api/auth/error?__cf_chl_rt_tk=03LN1HV0svzfLqkgoh7j4retyiBOODgTMrpkka.EPPU-1749307614-1.0.1.1-YqzrvlQc0pj0wUm6OzKffBjCiaa2YZ3QnpE1c.pS.Ik"
+    },
+    {
+      "name": "Just a moment...",
+      "url": "https://chatgpt.com/api/auth/error?__cf_chl_rt_tk=O7K0A77oCymZ3fQ6w9Mj6WpmoStdLxy3E6JJ.lSJl1U-1749307626-1.0.1.1-wdHVEvAksLVrPbI5y4u95apY3xaGh2WwHJDQWcv4JBY"
+    },
+    {
+      "name": "Just a moment...",
+      "url": "https://chatgpt.com/api/auth/error?__cf_chl_rt_tk=BuhnwPZLZ.faG4msRIkQa_CUOt32dfyS6QURrqy.tc0-1749307724-1.0.1.1-PG96HFSy9Nhj76p_f_0K95z4b27uX5spahpQS.Qrg4A"
+    },
+    {
+      "name": "Just a moment...",
+      "url": "https://chatgpt.com/api/auth/error?__cf_chl_rt_tk=dWxNToKMvNWu9YUXvRYBqCVMnTRHK_o7cuvLf3NGMI8-1749307749-1.0.1.1-NzhlZ9wpp7RFwUUFqxMI3u9Anup3aQNSc_e72L80zVs"
+    },
+    {
+      "name": "GBrowser - IntelliJ IDEs Plugin | Marketplace",
+      "url": "https://plugins.jetbrains.com/plugin/14458-gbrowser"
+    }
+  ]
+}]]></component>
+</project>

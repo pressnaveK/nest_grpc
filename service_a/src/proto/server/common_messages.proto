@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package calc;
+
+message CalcRequest{
+  double a = 1;
+  double b = 2;
+}
+
+message CalcResponse{
+  double result_calc = 1;
+}
