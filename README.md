@@ -196,3 +196,9 @@ export class MicroserviceClientService implements OnModuleInit {
 }
 
 ```
+ Run both services and run below script
+
+ ```
+curl -X POST "http://localhost:3000/test/inverse-total?num_1=8&num_2=6"
+{"success":true,"value":0.2916666666666667,"message":"success"}
+```
